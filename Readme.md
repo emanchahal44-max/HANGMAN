@@ -33,7 +33,7 @@ hangman_game/
 │       ├── english_general.txt
 │       └── science.txt
 │
-├── game_log/                    # Automatically generated folder to store logs
+├── game_log/                   
 │   ├── game1/log.txt
 │   ├── game2/log.txt
 │   └── ...
@@ -41,7 +41,6 @@ hangman_game/
 └── README.md  
                   
 How to Play
-
 1. The game will show a list of categories:
  
    Categories: animals, fruits, english, science
@@ -58,10 +57,8 @@ How to Play
 4. At the end of each game, a detailed summary and log file are generated automatically.
 
 Game Logging Example
-
 Each game round is saved under:
 game_log/game1/log.txt
-
 Sample log.txt content:
 Game 1 Log
 Category: fruits
@@ -84,36 +81,29 @@ Win Rate: 100.00%
 Date & Time: 2025-10-30 12:45:23
 
 Scoring System
-
 Action, Points 
-Correct single letter, +10 
-Correct multiple letters, +20 
-Correct full word guess, +100
+1.Correct single letter, +10 
+2.Correct multiple letters, +20 
+3.Correct full word guess, +100
 Win bonus, +50 
 
 Example Output
-
 Welcome to Hangman!
 Categories: animals, fruits, english, science
 Choose a category (or leave empty for random): fruits
-
 Word: _ _ _ _ _ _
 Guessed letters:
 Remaining wrong guesses: 6
-
 Enter your guess: a
 Correct sequence found!
-
 Word: a _ a _ a _
 Guessed so far: a
 Remaining wrong guesses: 6
 
 Log Files
-
 Every time one play:
 A new folder is made inside game_log named game1, game2, etc.
 Each folder contains a file log.txt with complete game details.
-
 logs can be used to analyze progress or debugging.
 
 
