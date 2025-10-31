@@ -1,0 +1,21 @@
+Category: fruits
+Word: Guarana.
+Word Length: 8
+Guesses (in order):
+1. d  → Wrong
+2. m  → Wrong
+3. g  → Correct
+4. p  → Wrong
+5. q  → Wrong
+6. x  → Wrong
+7. c  → Wrong
+Wrong Guesses List: d, m, p, q, x, c
+Wrong Guesses Count: 6
+Remaining Attempts at End: 0
+Result: Loss
+Points Earned: 50
+Total Score (after this round): 0
+Games Played: 4
+Wins: 0, Losses: 4
+Win Rate: 0.0%
+Date & Time: 2025-10-28 20:39:06.704541

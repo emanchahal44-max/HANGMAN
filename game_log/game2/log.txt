@@ -1,0 +1,24 @@
+Game 2 Log
+Category: animals
+Word: Grey Reef Shark
+Word Length: 15
+Guesses (in order):
+1. t → Wrong
+2. a → Correct
+3. e → Correct
+4. o → Wrong
+5. n → Wrong
+6. m → Wrong
+7. d → Wrong
+8. wth → Wrong
+Wrong Guesses List: t, o, n, m, d, wth
+Wrong Guesses Count: 6
+Remaining Attempts at End: 0
+Result: Loss
+Points Earned: 20
+Total Score (after this round): 30
+Games Played: 2
+Wins: 0
+Losses: 2
+Win Rate: 0.00%
+Date & Time: 2025-10-29 16:17:38

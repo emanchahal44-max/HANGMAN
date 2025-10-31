@@ -1,0 +1,29 @@
+Game 4 Log
+Category: animals
+Word: Dogo Argentino
+Word Length: 14
+Guesses (in order):
+1. f → Wrong
+2. a → Correct
+3. i → Correct
+4. e → Correct
+5. o → Correct
+6. u → Wrong
+7. n → Correct
+8. m → Wrong
+9. t → Correct
+10. p → Wrong
+11. d → Correct
+12. df → Wrong
+13. vc → Wrong
+Wrong Guesses List: f, u, m, p, df, vc
+Wrong Guesses Count: 6
+Remaining Attempts at End: 0
+Result: Loss
+Points Earned: 70
+Total Score (after this round): 190
+Games Played: 4
+Wins: 1
+Losses: 3
+Win Rate: 25.00%
+Date & Time: 2025-10-30 19:50:09

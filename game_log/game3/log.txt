@@ -1,0 +1,23 @@
+Game 3 Log
+Category: animals
+Word: Goat
+Word Length: 4
+Guesses (in order):
+1. a → Correct
+2. e → Wrong
+3. i → Wrong
+4. o → Correct
+5. u → Wrong
+6. g → Correct
+7. t → Correct
+Wrong Guesses List: e, i, u
+Wrong Guesses Count: 3
+Remaining Attempts at End: 3
+Result: Win
+Points Earned: 90
+Total Score (after this round): 120
+Games Played: 3
+Wins: 1
+Losses: 2
+Win Rate: 33.33%
+Date & Time: 2025-10-30 17:14:41

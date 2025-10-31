@@ -1,0 +1,22 @@
+Category: english
+Word: any
+Word Length: 3
+Guesses (in order):
+1. t  → Wrong
+2. h  → Wrong
+3. e  → Wrong
+4. a  → Correct
+5. n  → Correct
+6. d  → Wrong
+7. p  → Wrong
+8. l  → Wrong
+Wrong Guesses List: t, h, e, d, p, l
+Wrong Guesses Count: 6
+Remaining Attempts at End: 0
+Result: Loss
+Points Earned: 0
+Total Score (after this round): 0
+Games Played: 5
+Wins: 0, Losses: 5
+Win Rate: 0.0%
+Date & Time: 2025-10-29 09:56:18.192831

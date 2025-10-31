@@ -1,0 +1,28 @@
+Game 1 Log
+Category: english
+Word: indicate
+Word Length: 8
+Guesses (in order):
+1. a → Correct
+2. e → Correct
+3. i → Correct
+4. o → Wrong
+5. u → Wrong
+6. h → Wrong
+7. n → Correct
+8. t → Correct
+9. r → Wrong
+10. p → Wrong
+11. c → Correct
+12. w → Wrong
+Wrong Guesses List: o, u, h, r, p, w
+Wrong Guesses Count: 6
+Remaining Attempts at End: 0
+Result: Loss
+Points Earned: 60
+Total Score (after this round): 60
+Games Played: 1
+Wins: 0
+Losses: 1
+Win Rate: 0.00%
+Date & Time: 2025-10-30 19:51:10

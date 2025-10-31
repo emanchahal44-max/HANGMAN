@@ -1,0 +1,24 @@
+Category: english
+Word: family
+Word Length: 6
+Guesses (in order):
+1. y  → Correct
+2. e  → Wrong
+3. a  → Correct
+4. m  → Correct
+5. l  → Correct
+6. h  → Wrong
+7. b  → Wrong
+8. t  → Wrong
+9. p  → Wrong
+10. d  → Wrong
+Wrong Guesses List: e, h, b, t, p, d
+Wrong Guesses Count: 6
+Remaining Attempts at End: 0
+Result: Loss
+Points Earned: 30
+Total Score (after this round): 0
+Games Played: 6
+Wins: 0, Losses: 6
+Win Rate: 0.0%
+Date & Time: 2025-10-29 09:57:50.419279
